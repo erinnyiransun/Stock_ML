@@ -1,0 +1,83 @@
+,index,Unnamed: 0,Unnamed: 0.1,symbol,shortName,stockName,githubUser,verified,notes,website,industry
+0,0,0,AMZN,AMZN,Amazon,amazon.com inc. common stock,amzn,1,,,Catalog/Specialty Distribution
+1,1,1,WORK,WORK,Slack,slack technologies inc. class a common stock,slackapi,1,others: slackhq (not verified),,EDP Services
+2,2,2,CSCO,CSCO,Cisco,cisco systems inc. common stock (de),cisco,1,,,Computer peripheral equipment
+3,4,4,ESTC,ESTC,Elastic,elastic n.v. ordinary shares,elastic,0,referred to in the official site ,https://www.elastic.co/about/free-and-open?elektra=organic&storm=CLP&rogue=free-and-open-gic,Computer Software: Prepackaged Software
+4,6,6,NFLX,NFLX,Netflix,netflix inc. common stock,netflix,0,referred to in the official site ,https://netflix.github.io/,Movies/Entertainment
+5,7,7,PINS,PINS,Pinterest,pinterest inc. class a common stock,pinterest,1,,,
+6,8,8,SSTK,SSTK,Shutterstock,shutterstock inc. common stock,shutterstock,1,,,
+7,9,9,INTU,INTU,intuit,Intuit Inc.,intuit,0,referred to in the official site ,https://opensource.intuit.com/app/intuit-open-source/open-source,Computer Software: Prepackaged Software
+8,10,10,OKTA,OKTA,Okta,okta inc. class a common stock,okta,1,,,EDP Services
+9,11,11,SHOP,SHOP,Shopify,shopify inc. class a subordinate voting shares,shopify,0,referred to in the official site ,https://shopify.engineering/introducing-the-super-debugger-a-wireless-real-time-debugger-for-ios-apps,
+10,12,12,ABNB,ABNB,Airbnb,airbnb inc. class a common stock,airbnb,1,,,Industrial Machinery/Components
+11,13,13,ZEN,ZEN,Zendesk,zendesk inc. common stock,zendesk,1,,,EDP Services
+12,14,14,ORCL,ORCL,Oracle,oracle corporation common stock,oracle,1,,,Computer Software: Prepackaged Software
+13,15,15,FVRR,FVRR,Fiverr,fiverr international ltd. ordinary shares no par value,fiverr,0,referred to in the official site,https://opensource.fiverr.com/,Business Services
+14,16,16,WIX,WIX,Wix.com,wix.com ltd. ordinary shares,wix,1,,,
+15,17,17,ADSK,ADSK,Autodesk,autodesk inc. common stock,autodesk,1,,,Computer Software: Prepackaged Software
+16,18,18,EB,EB,Eventbrite,eventbrite inc. class a common stock,eventbrite,0,referred to in the official site,https://www.eventbrite.com/open-source/,EDP Services
+17,19,20,HUBS,HUBS,HubSpot,hubspot inc. common stock,hubspot,0,referred to in the official site,https://developers.hubspot.com/open-source,Computer Software: Prepackaged Software
+18,20,21,ASAN,ASAN,Asana,asana inc. class a common stock,asana,1,,,Retail: Computer Software & Peripheral Equipment
+19,22,24,GRPN,GRPN,Groupon,groupon inc. common stock,groupon,0,,,Advertising
+20,23,25,JWN,JWN,Nordstrom,nordstrom inc. common stock,nordstrom,0,,,Clothing/Shoe/Accessory Stores
+21,24,26,W,W,Wayfair,wayfair inc. class a common stock,wayfair,0,referred to in the official site,https://tech.wayfair.com/,Catalog/Specialty Distribution
+22,25,27,TRUE,TRUE,TrueCar,truecar inc. common stock,truecar,1,,,
+23,26,28,DDOG,DDOG,Datadog,datadog inc. class a common stock,datadog,1,,,EDP Services
+24,27,29,VG,VG,Vonage,vonage holdings corp. common stock,vonage,0,,,Telecommunications Equipment
+25,28,30,CERN,CERN,Cerner,cerner corporation common stock,cerner,0,referred to in the official site,https://engineering.cerner.com/blog/carbon-graphs-open-source-visualization-api/,Managed Health Care
+26,29,31,TEAM,TEAM,Atlassian,atlassian corporation plc class a ordinary shares,atlassian,1,,,Computer Software: Prepackaged Software
+27,30,32,DOCU,DOCU,DocuSign,docusign inc. common stock,docusign,1,,,EDP Services
+28,31,33,DOCN,DOCN,DigitalOcean,digitalocean holdings inc. common stock,digitalocean,1,,,Retail: Computer Software & Peripheral Equipment
+29,32,34,COIN,COIN,Coinbase,coinbase global inc. class a common stock,coinbase,1,,,EDP Services
+30,33,35,MELI,MELI,MercadoLibre,mercadolibre inc. common stock,mercadolibre,0,referred to in the official site,https://developers.mercadolibre.com.ar/es_ar/herramientas,Catalog/Specialty Distribution
+31,34,36,BABA,BABA,Alibaba.com,alibaba group holding limited american depositary shares each representing eight ordinary share,alibaba,0,referred to in the official site,,
+32,35,37,DASH,DASH,DoorDash,doordash inc. class a common stock,doordash,1,,,Industrial Machinery/Components
+33,36,38,RXT,RXT,Rackspace,rackspace technology inc. common stock,rackerlabs,0,,,EDP Services
+34,37,39,BIGC,BIGC,BigCommerce,bigcommerce holdings inc. series 1 common stock,bigcommerce,0,referred to in the official site,https://developer.bigcommerce.com/dev-library/examples/gatsby/netlify/source-code/starter/bigcommerce-gatsby-starter-w-netlify-cms/,Computer Software: Prepackaged Software
+35,38,40,QIWI,QIWI,Qiwi,qiwi plc american depositary shares,qiwi,1,,,Business Services
+36,39,41,MDLA,MDLA,Medallia,medallia inc. common stock,medallia,0,referred to in the official site,https://engineering.medallia.com/blog/,EDP Services
+37,40,42,TWLO,TWLO,Twilio,twilio inc. class a common stock,twilio,1,,,Industrial Machinery/Components
+38,41,43,TRVG,TRVG,trivago,trivago n.v. american depositary shares,trivago,1,,,EDP Services
+39,42,44,TU,TU,TELUS,telus corporation ordinary shares,telus,1,,,
+40,43,45,NTNX,NTNX,Nutanix,nutanix inc. class a common stock,nutanix,1,,,EDP Services
+41,44,46,CARG,CARG,CarGurus,cargurus inc. class a common stock ,cargurus,1,,,
+42,45,47,NEWR,NEWR,New Relic,new relic inc. common stock,newrelic,1,,,Computer Software: Prepackaged Software
+43,46,48,SPLK,SPLK,Splunk,splunk inc. common stock,splunk,0,referred to in the official site,https://dev.splunk.com/enterprise/examples,Computer Software: Prepackaged Software
+44,47,49,ERIC,ERIC,Ericsson,ericsson american depositary shares,ericsson,0,,,Computer Software: Prepackaged Software
+45,48,50,REAL,REAL,The RealReal,the realreal inc. common stock,therealreal,1,,,Catalog/Specialty Distribution
+46,50,52,AAPL,AAPL,apple inc,Apple Inc.,apple,1,,,Computer Manufacturing
+47,51,53,MSFT,MSFT,microsoft,Microsoft Corporation,microsoft,1,,,Computer Software: Prepackaged Software
+48,52,54,V,V,visa inc,Visa Inc. Class A,visa,0,referred to in the official site,https://community.developer.visa.com/t5/Two-way-SSL-X-Pay-Token/Code-9124-Expected-input-credential-was-not-present/m-p/8567,Business Services
+49,54,56,PYPL,PYPL,paypal,PayPal Holdings Inc,paypal,0,referred to in the official site,,
+50,55,57,ADBE,ADBE,adobe systems,Adobe Inc.,adobe,1,,,Computer Software: Prepackaged Software
+51,56,58,QCOM,QCOM,qualcomm,Qualcomm Inc,quic,0,referred to in the official site,https://quic.github.io/,Computer peripheral equipment
+52,57,59,ACN,ACN,accenture,Accenture Plc Class A,accenture,0,referred to in the official site,https://accenture.github.io/,EDP Services
+53,58,60,ZBRA,ZBRA,zebra technologies,Zebra Technologies Corporation Class A,zebra,0,referred to in the official site,https://developer.zebra.com/community/home/blog/2017/08/25/get-it-on-github,Computer peripheral equipment
+54,59,61,WDC,WDC,western digital,Western Digital Corporation,westerndigitalcorporation,1,,,Electronic Components
+55,60,62,STX,STX,seagate technology,Seagate Technology PLC,seagate,1,,,Electronic Components
+56,61,63,BAH,BAH,booz allen hamilton,Booz Allen Hamilton Holding Corporation Class A,boozallen,0,referred to in the official site,,Professional Services
+57,62,64,CIEN,CIEN,ciena,Ciena Corporation,ciena,0,,,Telecommunications Equipment
+58,63,65,SLAB,SLAB,silicon labs,Silicon Laboratories Inc.,siliconlabs,0,referred to in the official site,,Semiconductors
+59,64,66,MSTR,MSTR,microstrategy,MicroStrategy Incorporated Class A,microstrategy,0,,,Computer Software: Prepackaged Software
+60,65,67,TDC,TDC,teradata,Teradata Corporation,teradata,0,referred to in the official site,,EDP Services
+61,66,68,UIS,UIS,unisys,Unisys Corporation,unisys,0,,,EDP Services
+62,67,69,PLTR,PLTR,palantir technologies,Palantir Technologies Inc. Class A,palantir,1,,,Retail: Computer Software & Peripheral Equipment
+63,68,70,XLNX,XLNX,xilinx,Xilinx,xilinx,0,,,Semiconductors
+64,69,71,FTNT,FTNT,fortinet,Fortinet,fortinet,1,,,Diversified Manufacture
+65,70,72,EPAM,EPAM,epam systems,EPAM Systems,epam,1,,,EDP Services
+66,71,73,AKAM,AKAM,akamai technologies,Akamai Technologies,akamai,1,,,Business Services
+67,72,74,CTXS,CTXS,citrix systems,Citrix Systems,citrix,1,,,Computer Software: Prepackaged Software
+68,73,75,NTAP,NTAP,netapp,NetApp,netapp,1,,,Electronic Components
+69,74,76,VMW,VMW,vmware,VMware,vmware,1,vmware also owns pivotal,,Computer Software: Prepackaged Software
+70,76,78,FEYE,FEYE,fireeye inc,FireEye,fireeye,0,referred to in the official site,,Computer Software: Prepackaged Software
+71,77,79,PI,PI,impinj,Impinj,impinj,1,,,Telecommunications Equipment
+72,78,80,EXTR,EXTR,extreme networks,Extreme Networks,extremenetworks,1,,,Telecommunications Equipment
+73,79,81,TSLA,TSLA,ericsson nikola tesla,Tesla Inc,teslamotors,1,,,Auto Manufacturing
+74,80,82,BB,BB,blackberry limited,BlackBerry Limited,blackberry,0,referred to in the official site,,
+75,82,84,BIDU,BIDU,baidu,Baidu,baidu,0,,,Computer Software: Programming Data Processing
+76,83,85,ZM,ZM,zoom,Zoom Video Communications Inc,zoom,1,,,Telecommunications Equipment
+77,84,86,FB,FB,facebook,Facebook Inc. Common Stock,facebook,1,,,Internet and Information Services
+78,85,87,GOOGL,GOOGL,google,Alphabet Inc Class A,google,1,,,Internet and Information Services
+79,87,89,TWTR,TWTR,twitter,Twitter Inc. Common Stock,twitter,0,referred to in the official site,https://twitter.github.io/projects/,EDP Services
+80,88,90,YELP,YELP,yelp,Yelp Inc. Common Stock,yelp,0,referred to in the official site ,https://www.yelp.com/engineering,Internet and Information Services
+81,89,91,SPOT,SPOT,spotify,Spotify Technology S.A. Ordinary Shares ,spotify,0,referred to in the official site,https://spotify.github.io/,Broadcasting
